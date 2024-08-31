@@ -1,10 +1,4 @@
 
-###
-
-###
-
-
-###
 
 <h1 align="center">Welcome to my digital workshop where creativity meets code!</h1>
 
@@ -18,6 +12,7 @@
 <h3  >  Hi, I'm Tanvi Naik</h3>
         <p align="center">I'm a passionate software developer with a keen interest in creating innovative solutions. My journey in tech is fueled by a love for learning and a drive to push the boundaries of what's possible. Whether it's building user-friendly interfaces, diving deep into backend architecture, or experimenting with the latest technologies, I'm always up for a challenge. I have a particular passion for UI/UX design and frontend development, where I can combine my technical skills with creativity to craft seamless and visually appealing user experiences. When I'm not coding, you'll find me sketching new designs, reading books, enjoying music, exploring new ideas, learning from the community, and sharing my knowledge with others. Let's build something amazing together!</p>
 
+- 📫 How to reach me **tanunaik130503@gmail.com**
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -68,4 +63,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TanviNaik13&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+##
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TanviNaik13.TanviNaik13" />
 </div>
