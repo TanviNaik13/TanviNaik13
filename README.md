@@ -68,5 +68,8 @@
 ##
 
 <div align="center">
+  <a href="https://github.com/TanviNaik13" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/followers/TanviNaik13?label=Follow&style=social" alt="GitHub Followers" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TanviNaik13.TanviNaik13" />
 </div>
+
